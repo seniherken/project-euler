@@ -1,3 +1,3 @@
 # Project Euler
 
-This project includes the answers of project euler problems.
+This project includes my answers of project euler problems.
